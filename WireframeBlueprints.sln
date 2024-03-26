@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WireframeBlueprints", "WireframeBlueprints.vbproj", "{2CF60FE3-D3FD-4038-8D14-642B96CE13FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF60FE3-D3FD-4038-8D14-642B96CE13FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF60FE3-D3FD-4038-8D14-642B96CE13FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF60FE3-D3FD-4038-8D14-642B96CE13FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF60FE3-D3FD-4038-8D14-642B96CE13FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC58934-5C3D-4CDE-B9D4-2B317E3FF440}
+	EndGlobalSection
+EndGlobal
